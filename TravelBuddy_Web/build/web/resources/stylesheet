@@ -1,0 +1,36 @@
+node.start {fill-color:green;size:15px;} 
+node.end {fill-color:red;size:15px;} 
+node {fill-color:blue;} 
+edge {fill-color:black; arrow-shape:arrow; size:8px;} 
+edge.cheapest {fill-color:green;} 
+
+graph {fill-color: #ECC418;}
+ 
+sprite.HAZARD {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/hazardroad.jpg');}
+sprite.TRAFFICJAM {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/jamroad.jpg');}
+sprite.ROADACCIDENT {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/accidentroad.jpg');}
+sprite.AIRACCIDENT {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/airaccident.png');}
+sprite.AIRTRAFFIC{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/airtraffic.png');}
+sprite.CONSTRUCTIONWORK {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/construction.png');}
+sprite.THICKFOG {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/fog.png');}
+sprite.ICEBERG {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/iceberg.png');}
+sprite.MARINETRAFFIC{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/marinetraffic.png');}
+sprite.OILLEAKAGE {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/oilleakage.png');}
+sprite.POTHOLE {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/pothole.png');}
+sprite.EXCESSRAIN {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/rain.png');}
+sprite.MARINEACCIDENT {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/shipaccident.png');}
+sprite.SNOW {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/snowing.png');}
+sprite.THUNDERSTORM {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/thunder.png');}
+sprite.TOLL {size:30px,30px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/toll.png');}
+sprite.TURBULENCE {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/turbulance.png');}
+sprite.WHIRPOOL {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/whirlpool.png');}
+sprite.CLEAR {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/clear.jpg');}
+sprite.AIRCLEAR {size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/clear.jpg');}
+sprite.WATERCLEAR{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/clear.jpg');}
+sprite.INTERSECTIONCOLLISION{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/intersectioncollision.jpg');}
+sprite.HEADONCOLLISION{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/headoncollision.jpg');}
+sprite.MULTIVEHICLECOLLISION{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/multivechilecollision.jpg');}
+sprite.SINGLEVEHICLECOLLISION{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/singlecollision.jpg');}
+sprite.PORTCONGESTION{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/portcongestion.jpg');}
+sprite.CANALAHEAD{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/canalahead.jpg');}
+sprite.WATERTRAFFIC{size:20px,20px; fill-mode:image-scaled; fill-image:url('http://localhost:8080/TravelBuddy_Web/resources/watertraffic.jpg');}
